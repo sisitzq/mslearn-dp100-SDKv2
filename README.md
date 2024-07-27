@@ -5,6 +5,7 @@ This repository contains the hands-on lab exercises for Microsoft course [DP-100
 You can view the instructions for the lab exercises at **[https://aka.ms/mslearn-dp100](https://aka.ms/mslearn-dp100)**.
 
 # my added modifying:  #####
+updated the contents from https://microsoftlearning.github.io/mslearn-azure-ml/
 
 ## What are we doing?
 
